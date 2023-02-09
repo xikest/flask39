@@ -1,4 +1,8 @@
 
-__pycache__/__init__.cpython-38.pyc
 __pycache__/__init__.cpython-39.pyc
-__pycache__/pybo.cpython-38.pyc
+__pycache__/config.cpython-39.pyc
+migrations/__pycache__/env.cpython-39.pyc
+migrations/versions/__pycache__/b9381b3e4b4e_.cpython-39.pyc
+migrations/versions/b9381b3e4b4e_.py
+pybo/__pycache__/models.cpython-39.pyc
+pybo/views/__pycache__/main_views.cpython-39.pyc
